@@ -1,0 +1,27 @@
+.h_img {
+  width: 100%;
+}
+
+
+
+
+
+/* Container holding the image and the text */
+.top_container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+
+
+/* Centered text */
+.centre-top {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: 28px;
+  margin-left: 16px;
+  transform: translate(-50%, -50%);
+}
