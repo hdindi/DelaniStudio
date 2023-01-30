@@ -2,19 +2,12 @@
   width: 100%;
 }
 
-
-
-
-
 /* Container holding the image and the text */
 .top_container {
   position: relative;
   text-align: center;
   color: white;
 }
-
-
-
 
 /* Centered text */
 .centre-top {
@@ -27,28 +20,41 @@
 }
 /* About Us */
 .about-us {
-    margin-left: 860px;
-    font-size: xx-large;
-    font-weight: bold;
-    
+  margin-left: 860px;
+  font-size: xx-large;
+  font-weight: bold;
 }
 
-.paragraph-1{
-    text-align: center;
+.paragraph-1 {
+  text-align: center;
 }
 
-.paragraph-2{
-    text-align: center;
-    color: white;
+.paragraph-2 {
+  text-align: center;
+  color: white;
 }
-
-
 
 /* Our Services text */
 .our-services {
-    position: absolute;    
-    left: 50%;    
-    margin-left: 16px;
-    transform: translate(-50%, -50%);
-    margin-top: -250px;
-  }
+  position: absolute;
+  left: 50%;
+  margin-left: 16px;
+  transform: translate(-50%, -50%);
+  margin-top: -250px;
+}
+
+.design {
+  position: relative;
+  margin-left: 400px;
+}
+
+.development {
+  position: relative;
+  margin-left: 800px;
+}
+
+.prdct_mngmnt {
+  position: inherit;
+  margin-left: 1400px;
+}
+
