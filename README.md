@@ -23,7 +23,7 @@
 
 
 ## link to live site on GitHub Pages
-[BirthDay Picker](https://hdindi.github.io/DelaniStudio/)
+[Delani Studio](https://hdindi.github.io/DelaniStudio/)
 
 ## copyright and license information**
 
