@@ -58,3 +58,11 @@
   margin-left: 1400px;
 }
 
+
+.contact_us_form {
+    position: absolute;
+    left: 50%;
+    margin-left: 16px;
+    transform: translate(-50%, -50%);
+    margin-top: -250px;
+  }
