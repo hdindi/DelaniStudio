@@ -25,3 +25,30 @@
   margin-left: 16px;
   transform: translate(-50%, -50%);
 }
+/* About Us */
+.about-us {
+    margin-left: 860px;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+
+.paragraph-1{
+    text-align: center;
+}
+
+.paragraph-2{
+    text-align: center;
+    color: white;
+}
+
+
+
+/* Our Services text */
+.our-services {
+    position: absolute;    
+    left: 50%;    
+    margin-left: 16px;
+    transform: translate(-50%, -50%);
+    margin-top: -250px;
+  }
